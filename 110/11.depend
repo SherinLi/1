@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1513893930 source:c:\users\zsm\desktop\11\main.c
+	<stdio.h>
+	"point.h"
+	<math.h>
+
+1513893660 c:\users\zsm\desktop\11\point.h
+
